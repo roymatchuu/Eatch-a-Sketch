@@ -16,7 +16,6 @@ function createGrid(x) {
     };
 
 
-    // box.style.height = 600/x + "px";
     // box.style.width = 600/x + "px";
 };
 
