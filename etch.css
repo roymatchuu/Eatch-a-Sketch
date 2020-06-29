@@ -1,0 +1,42 @@
+body{
+    background: #ffcccb;
+    padding: 0px;
+    margin: 0px;
+}
+
+/* #container{
+    width: 600px;
+    height: 600px;
+    margin: 100px auto;
+    position: relative;
+    background: white;
+    outline: 2px solid black;
+    border: none;
+} */
+
+#container {
+	position: relative;
+	outline:2px solid black;
+	font-size: 0;
+	margin:100px auto;
+	height:600px;
+	width:600px;
+	padding: 0;
+	border: none;
+}
+
+.grid{
+	margin: 0px;
+	padding: 0px;
+	border: none;
+	outline:1px solid #000;
+	display:inline-block;
+}
+
+.hovered{
+    background-color: #000;
+}
+/* .grid:hover{
+    background: black;
+} */
+
